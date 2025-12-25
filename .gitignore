@@ -1,0 +1,6 @@
+tmpfile
+parser_app
+*.o
+*.a
+*.so
+core
